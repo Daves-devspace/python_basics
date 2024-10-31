@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04a7e4ec-acb2-4e17-b4ef-b7afcc1577cc" name="Changes" comment="functions" />
+    <list default="true" id="04a7e4ec-acb2-4e17-b4ef-b7afcc1577cc" name="Changes" comment="functions">
+      <change afterPath="$PROJECT_DIR$/lesson11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson10.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson10.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Daves-devspace&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Daves-devspace/python_basics.git&quot;,
+    &quot;accountId&quot;: &quot;4618bd79-b5d7-4549-b128-abc2e07a6f41&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -34,6 +50,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Python.lesson1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson10.executor&quot;: &quot;Run&quot;,
     &quot;Python.lesson3.executor&quot;: &quot;Run&quot;,
     &quot;Python.lesson4.executor&quot;: &quot;Run&quot;,
     &quot;Python.lesson5.executor&quot;: &quot;Run&quot;,
@@ -51,8 +68,8 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.lesson9">
-    <configuration name="lesson5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.lesson10">
+    <configuration name="lesson10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_basic" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -66,7 +83,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lesson10" />
         <item itemvalue="Python.lesson9" />
         <item itemvalue="Python.lesson8" />
         <item itemvalue="Python.lesson7" />
         <item itemvalue="Python.lesson6" />
-        <item itemvalue="Python.lesson5" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +218,11 @@
       <workItem from="1730265927781" duration="2268000" />
       <workItem from="1730269496866" duration="1570000" />
       <workItem from="1730279312888" duration="364000" />
-      <workItem from="1730283006389" duration="350000" />
+      <workItem from="1730283006389" duration="863000" />
+      <workItem from="1730299029070" duration="2317000" />
+      <workItem from="1730301617041" duration="533000" />
+      <workItem from="1730305935018" duration="349000" />
+      <workItem from="1730351019004" duration="914000" />
     </task>
     <task id="LOCAL-00001" summary="functions">
       <option name="closed" value="true" />
@@ -219,7 +240,23 @@
       <option name="project" value="LOCAL" />
       <updated>1730283256768</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="functions">
+      <option name="closed" value="true" />
+      <created>1730283387028</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730283387028</updated>
+    </task>
+    <task id="LOCAL-00004" summary="functions">
+      <option name="closed" value="true" />
+      <created>1730283452695</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730283452695</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,6 +270,7 @@
     <SUITE FILE_PATH="coverage/python_basic$lesson1.coverage" NAME="lesson1 Coverage Results" MODIFIED="1730096615998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_basic$lesson4.coverage" NAME="lesson4 Coverage Results" MODIFIED="1730182964612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_basic$lesson6.coverage" NAME="lesson6 Coverage Results" MODIFIED="1730186930408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_basic$lesson10.coverage" NAME="lesson10 Coverage Results" MODIFIED="1730301740108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_basic$lesson8.coverage" NAME="lesson8 Coverage Results" MODIFIED="1730268195911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_basic$lesson3.coverage" NAME="lesson3 Coverage Results" MODIFIED="1730182816100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_basic$lesson9.coverage" NAME="lesson9 Coverage Results" MODIFIED="1730271054737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
